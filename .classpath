@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/servlet-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/jasper.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/jsp-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/el-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/annotations-api.jar"/>
+	<classpathentry kind="src" path="WEB-INF/src"/>
+	<classpathentry kind="src" output="work" path="work"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Desktop/tess4jeclipse/must/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Desktop/tess4jeclipse/must/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Desktop/tess4jeclipse/must/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Desktop/tess4jeclipse/must/lept4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Desktop/tess4jeclipse/新しいフォルダー/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Desktop/tess4jeclipse/新しいフォルダー/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Desktop/tess4jeclipse/新しいフォルダー/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Desktop/tess4jeclipse/新しいフォルダー/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Desktop/Tess4J-3.4.8-src/Tess4J/dist/tess4j-3.4.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Downloads/poi-bin-3.6-20091214/poi-3.6/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Downloads/poi-bin-3.6-20091214/poi-3.6/poi-contrib-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Downloads/poi-bin-3.6-20091214/poi-3.6/poi-examples-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Downloads/poi-bin-3.6-20091214/poi-3.6/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Downloads/poi-bin-3.6-20091214/poi-3.6/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Downloads/poi-bin-3.6-20091214/poi-3.6/poi-scratchpad-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Downloads/poi-bin-3.6-20091214/poi-3.6/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Downloads/poi-bin-3.6-20091214/poi-3.6/ooxml-lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Downloads/poi-bin-3.6-20091214/poi-3.6/ooxml-lib/geronimo-stax-api_1.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nhs10109/Downloads/poi-bin-3.6-20091214/poi-3.6/ooxml-lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Tomcat6_0/lib/commons-fileupload-1.1.1.jar"/>
+	<classpathentry kind="output" path="WEB-INF/classes"/>
+</classpath>
